@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/>
 </h2>
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)
 
 <img align="right" padding-right:80px alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="300px"/>
   
