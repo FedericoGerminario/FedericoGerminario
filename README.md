@@ -15,7 +15,7 @@
 - 📚 &nbsp; I’m currently studying Data Science in France
 - 🎓 &nbsp; I’m graduated in Electronic Engineering
 - 💻 &nbsp; I’m passionate about Machine Learning and Data Engineering
-- 🌱 &nbsp; I’m currently getting acquainted with Natural Language Processing and Computer Vision
+- 🌱 &nbsp; I’m getting acquainted with Natural Language Processing and Computer Vision
 - 👨🏻‍💻 &nbsp; My projects are available on [Github](https://github.com/FedericoGerminario?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/FedericoGerminario/) or [Gmail](mailto:germinario.fede@gmail.com)
 
